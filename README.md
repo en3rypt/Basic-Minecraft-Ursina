@@ -1,7 +1,7 @@
 # Basic Minecraft Game using Ursina
 
 
-Make sure to install Ursina before running the file
+Make sure to install all dependencies before running the game
 ```
-pip install ursina
+pip install -r requirements.txt
 ```
